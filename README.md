@@ -1,15 +1,48 @@
 # programming_c
 
 List of programs
-------------------------
 
 Linux Basics
--------------------
-1. read.c /*size_t read(int fildes, void *buf, size_t nbytes);*/
-2. write.c /* size_t write(int fildes, const void *buf, size_t nbytes); */
-3. copy.c  /*int open(const char *path, int oflags, mode_t mode) */
-4. mcp.c /*a very basic emulation of cp */
-5. mmv.c /*a very basic emulation of mv */
+------------------------------
+
+./Linux_Basics/read.c
+./Linux_Basics/mmv.c
+./Linux_Basics/copy.c
+./Linux_Basics/write.c
+./Linux_Basics/permissions.c
+./Linux_Basics/mcp.c
+./Linux_Basics/file_stat.c
+
+
+C Basics
+------------------------------------
+
+./C_Basics/basics_struct.c
+
+
+Linux Linux_Implementations
+--------------------------------------
+./Linux_Implementations/cat.c
+
+
+Projects
+------------------------------------
+./Projects/nmb/server.c
+
+
+Crypto
+------------------------------------
+./Crypto/caeser_cipher.c
+
+Other
+-------------------------------------
+
+./nw_client.c
+./ping.c
+./fd_basics.c
+./nw_server.c
+./get_ipaddress.c
+./fork.c
 
 
 
